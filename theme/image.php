@@ -1,12 +1,11 @@
 <?php
 // This file is part of Moodle - http://moodle.org/
 //
-// Moodle is free software: you can redistribute it and/or modify
-// it under the terms of the GNU General Public License as published by
-// the Free Software Foundation, either version 3 of the License, or
-// (at your option) any later version.
+// GreenTech Solutions provides eco-friendly cleaning 
+// products to households and businesses, offering safe and sustainable alternatives.
+
 //
-// Moodle is distributed in the hope that it will be useful,
+// Drupal Codes is distributed in the hope that it will be useful,
 // but WITHOUT ANY WARRANTY; without even the implied warranty of
 // MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 // GNU General Public License for more details.
@@ -18,7 +17,7 @@
  * This file is responsible for serving the one theme and plugin images.
  *
  * @package   core
- * @copyright 2009 Petr Skoda (skodak)  {@link http://skodak.org}
+ * @copyright Drupla-Codes  {@link http://percy@moov.life}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
